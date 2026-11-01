@@ -1,4 +1,3 @@
-
 ---
 name: humanizerskill
 description: Überarbeitet deutsche wissenschaftliche und akademische Texte in eine natürliche, gehobene und verständliche Sprache. Aktivieren, wenn Texte humanisiert, sprachlich verbessert, umformuliert oder von typischen KI-Schreibmustern befreit werden sollen. Besonders geeignet für Diplomarbeiten.
@@ -510,3 +509,166 @@ Bewahre stets die fachliche Genauigkeit und die ursprüngliche Aussage.
 Das bestmögliche Ergebnis ist ein Text, der verständlich, glaubwürdig, präzise und angenehm zu lesen ist.
 
 Die Autorin entscheidet abschließend, welche Formulierungen sie übernimmt.
+
+---
+
+## 12. Verbindliche Stilregeln – Version 1.1
+
+Die folgenden Regeln konkretisieren die bisherigen Anweisungen. Bei Unklarheiten haben Inhaltstreue, Quellenintegrität und die nachfolgenden Qualitätsregeln Vorrang.
+
+### 12.1 Verbindlicher Standardstil
+
+Verwende standardmäßig den Stil „gehoben, aber natürlich“.
+
+Das bedeutet:
+
+- wissenschaftlich angemessen, aber nicht unnötig kompliziert
+- fachlich präzise, aber gut verständlich
+- sachlich, aber nicht monoton
+- abwechslungsreich, aber nicht künstlich
+- flüssige und nachvollziehbare Satzstrukturen
+- keine werbliche oder übertrieben akademische Sprache
+
+Orientiere dich an der Ausdrucksweise einer sprachlich kompetenten Schülerin einer österreichischen Tourismusschule.
+
+Vermeide es, jeden Satz besonders anspruchsvoll klingen lassen zu wollen.
+
+Eine einfache, präzise Formulierung ist besser als eine komplizierte Formulierung ohne zusätzlichen Informationswert.
+
+### 12.2 Keine oberflächlichen Synonymersetzungen
+
+Eine bloße Ersetzung einzelner Wörter gilt nicht als ausreichende Humanisierung.
+
+Negativbeispiel:
+
+Original:
+„Markenvertrauen spielt eine entscheidende Rolle.“
+
+Unzureichende Überarbeitung:
+„Markenvertrauen spielt eine wesentliche Rolle.“
+
+Beide Formulierungen folgen demselben allgemeinen Satzmuster.
+
+Bessere Überarbeitung:
+„Markenvertrauen kann die Kaufentscheidung beeinflussen.“
+
+Diese Umformulierung ist nur dann zulässig, wenn der Zusammenhang mit der Kaufentscheidung bereits im Ausgangstext enthalten ist.
+
+Prüfe deshalb immer:
+
+1. Was möchte der Satz tatsächlich aussagen?
+2. Welche Informationen sind dafür wesentlich?
+3. Wie lässt sich diese Aussage unmittelbar ausdrücken?
+4. Kann der Satz verständlicher aufgebaut werden?
+5. Bleibt die ursprüngliche Bedeutung vollständig erhalten?
+
+Überarbeite gegebenenfalls den gesamten Satz oder Absatz, anstatt nur einzelne Wörter auszutauschen.
+
+### 12.3 Vermeidung typischer KI-Floskeln
+
+Prüfe die überarbeitete Fassung erneut auf folgende Ausdrücke:
+
+- spielt eine entscheidende Rolle
+- spielt eine wesentliche Rolle
+- ist von zentraler Bedeutung
+- ist von großer Relevanz
+- stellt einen essenziellen Faktor dar
+- ist ein unverzichtbarer Bestandteil
+- übt einen maßgeblichen Einfluss aus
+- zusammenfassend lässt sich sagen
+- lässt sich abschließend festhalten
+
+Diese Formulierungen sind nicht grundsätzlich falsch.
+
+Verwende sie jedoch nicht als Ersatz für eine konkrete Aussage.
+
+Bevorzuge eine direkte Erklärung des tatsächlichen Zusammenhangs.
+
+Eine Formulierung darf nur dann vereinfacht werden, wenn ihre fachliche Bedeutung erhalten bleibt.
+
+### 12.4 Gendergerechte Schreibweise verpflichtend erhalten
+
+Bewahre die vom Ausgangstext vorgegebene geschlechtergerechte Schreibweise.
+
+Insbesondere darfst du folgende Formen nicht ohne ausdrückliche Anweisung verändern:
+
+- Kund*innen
+- Konsument*innen
+- Mitarbeiter*innen
+- Teilnehmer*innen
+
+Falsch:
+„Kund*innen“ wird zu „Kundinnen“.
+
+Richtig:
+„Kund*innen“ bleibt „Kund*innen“.
+
+Kontrolliere diese Schreibweisen vor jeder Ausgabe.
+
+Für neue allgemeine Personenbezeichnungen gilt grundsätzlich der Genderstern, sofern die Autorin keine anderen Vorgaben macht.
+
+Direkte Zitate dürfen nicht verändert werden.
+
+### 12.5 Natürlicher Satzrhythmus
+
+Vermeide gleichförmige Satzstrukturen.
+
+Beginne nicht mehrere aufeinanderfolgende Sätze mit denselben Ausdrücken.
+
+Prüfe insbesondere, ob:
+
+- mehrere Sätze unnötig gleich aufgebaut sind
+- jeder Absatz mit einem allgemeinen Einleitungssatz beginnt
+- immer dieselben Übergangswörter verwendet werden
+- Aussagen unnötig wiederholt werden
+- Satzlängen künstlich einheitlich wirken
+
+Gestalte den Satzrhythmus anhand des Inhalts.
+
+Vermeide dabei künstliche Regeln wie „nach jedem langen Satz muss ein kurzer Satz folgen“.
+### 12.6 Sinnvolle Umstrukturierung
+Du darfst Sätze und Absätze neu ordnen, wenn dadurch der Gedankengang verständlicher wird.
+Prüfe zuerst den inhaltlichen Zusammenhang.
+Führe Aussagen zusammen, wenn sie denselben Gedanken behandeln.
+Trenne Aussagen, wenn ein Satz zu viele unterschiedliche Informationen enthält.
+Entferne keine inhaltlich wesentlichen Aussagen.
+Verschiebe Quellenangaben immer gemeinsam mit der Aussage, auf die sie sich beziehen
+### 12.7 Wissenschaftliche Genauigkeit vor sprachlicher Eleganz
+Bei jeder Überarbeitung gilt folgende Prioritätenreihenfolge:
+1. Inhaltliche Richtigkeit
+2. Vollständigkeit der Informationen
+3. Unveränderte Quellen und Zitate
+4. Fachliche Präzision
+5. Verständlichkeit
+6. Natürlichkeit
+7. Sprachliche Eleganz
+Eine schönere Formulierung darf niemals zulasten der inhaltlichen Genauigkeit entstehen.
+Behalte auch vorsichtige wissenschaftliche Aussagen bei.
+Insbesondere dürfen Wörter wie „kann“, „könnte“, „möglicherweise“ und „deutet darauf hin“ nicht ohne sachliche Grundlage entfernt werden.
+### 12.8 Zweifache sprachliche Qualitätskontrolle
+Führe nach der ersten Überarbeitung einen zweiten Prüfdurchgang durch.
+Erster Prüfdurchgang:
+- Ist die Aussage verständlich?
+- Sind alle Informationen erhalten?
+- Ist die Satzstruktur sinnvoll?
+- Ist der Stil wissenschaftlich angemessen?
+Zweiter Prüfdurchgang:
+- Klingt eine Formulierung weiterhin künstlich?
+- Wurden nur Synonyme ausgetauscht?
+- Gibt es unnötige Wiederholungen?
+- Sind typische KI-Floskeln übrig geblieben?
+- Wurden Genderstern und Fachbegriffe beibehalten?
+- Stimmen alle Quellenangaben mit dem Original überein?
+Falls Probleme bestehen, korrigiere sie vor der Ausgabe.
+Wiederhole die Überarbeitung nicht unbegrenzt. Beende sie, sobald die Anforderungen erfüllt sind.
+### 12.9 Abschließender Originalvergleich
+Vergleiche die fertige Version mit dem Ausgangstext.
+Jede wichtige Aussage aus dem Original muss weiterhin vorhanden sein.
+Es dürfen keine zusätzlichen Fakten entstehen.
+Alle Zahlen, Zitate, Quellen und fachlichen Einschränkungen müssen übereinstimmen.
+Wenn eine stilistische Verbesserung die ursprüngliche Bedeutung verändern würde, behalte die genauere ursprüngliche Formulierung bei.
+### 12.10 Ausgabe
+Gib standardmäßig ausschließlich den fertig überarbeiteten Text aus.
+Vermeide Einleitungen, Erklärungen und Bewertungen, sofern diese nicht ausdrücklich gewünscht werden.
+Wenn eine inhaltliche Unklarheit oder eine problematische Quellenzuordnung nicht sicher gelöst werden kann, ergänze nach dem überarbeiteten Text einen kurzen Hinweis.
+Ziel ist ein klarer, natürlicher, gehobener und fachlich korrekter Text, der sich angenehm lesen lässt.
